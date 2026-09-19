@@ -1,0 +1,7 @@
+g++ -std=c++14 -Wall -Wextra -Iinclude src/*.cpp -o airline_system.exe
+
+
+.\airline_system.exe
+
+
+

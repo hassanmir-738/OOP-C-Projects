@@ -1,0 +1,8 @@
+ECONOMY|P-101|Alice Johnson|US984210|alice.j@example.com|+1-555-0101|130|1
+ECONOMY|P-102|Bob Smith|GB441029|bob.smith@example.com|+44-20-7946-0102|55|0
+ECONOMY|P-103|Carlos Mendes|BR781033|carlos.m@example.com|+55-11-9876-0103|200|0
+BUSINESS|P-201|Diana Prince|US459021|diana.p@enterprise.com|+1-555-0201|706|1|Wayne Enterprises
+BUSINESS|P-202|Evan Wright|CA883012|evan.w@techcorp.ca|+1-416-555-0202|535|1|TechCorp Canada
+BUSINESS|P-203|Fiona Gallagher|IE667104|fiona.g@global.ie|+353-1-496-0203|800|1|Dublin Global
+FIRSTCLASS|P-301|George Harrison|UK112944|george.h@royalclub.uk|+44-20-7946-0301|1718|1|Presidential Suite
+FIRSTCLASS|P-302|Helena Bonham|FR339018|helena.b@luxury.fr|+33-1-4268-0302|2477|1|Empress Imperial Suite
